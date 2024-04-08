@@ -7,7 +7,11 @@ This Python script implements a basic keylogger that records keystrokes and save
 ## Usage
 
 1. Ensure you have Python installed on your system.
-    > pip install pynput 
+    
+    ```
+    pip install pynput 
+    ```
+    
 2. Run the script by executing the following command in your terminal:
 
     ```
