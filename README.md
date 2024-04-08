@@ -11,7 +11,7 @@ This Python script implements a basic keylogger that records keystrokes and save
     ```
     pip install pynput 
     ```
-    
+
 2. Run the script by executing the following command in your terminal:
 
     ```
@@ -19,7 +19,7 @@ This Python script implements a basic keylogger that records keystrokes and save
     ```
 
 3. The script will prompt you for consent to log your keystrokes. Type "yes" or "no" to indicate your consent.
-4. Once consent is given, the keylogger will start recording keystrokes. Press any keys you wish to log, it will then be stored or appended to Keystrokes.txt.
+4. Once consent is given, the keylogger will start recording keystrokes. Press any keys you wish to log, it will then be stored or appended to keystrokes.txt.
 5. To stop the keylogger, simply close the terminal or interrupt the script.
 
 ## Functionality
