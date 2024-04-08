@@ -1,0 +1,3 @@
+hi this is a keylogger program in python
+hi hi hi hi hello world
+ [Key.ctrl] c
